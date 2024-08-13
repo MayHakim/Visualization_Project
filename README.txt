@@ -6,4 +6,6 @@ In order to run the code:
 2. Unzip the two ZIP files and add to project directory.
 3. Run the "main" script.
 
+The complete assignment is the "Visualization Project" PDF.
+
 Enjoy!
